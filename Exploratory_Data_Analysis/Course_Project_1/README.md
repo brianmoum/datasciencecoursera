@@ -1,0 +1,1 @@
+Four R scripts which read a text file of measurements of electric power consumption in one household with a one-minute sampling rate. The scripts create four distinct plots of data over a period of two days.
